@@ -1,0 +1,36 @@
+﻿<Window x:Class="Academic_Pro.RenameDialog"
+		xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+		xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+		Icon="Academic Pro Logo.png"
+		WindowStartupLocation="CenterScreen"
+		Title="Rename File - Academic Pro"
+		ResizeMode="NoResize"
+		SizeToContent="Height"
+		Width="300"
+		Loaded="Window_Loaded">
+	<Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="Auto" />
+			<RowDefinition />
+			<RowDefinition Height="Auto" />
+		</Grid.RowDefinitions>
+		<Label Content="Please enter the new file name."
+			   Foreground="Black" x:Name="FileNameLabel" />
+		<TextBox Grid.Row="1"
+				 Name="FileName" />
+		<StackPanel Grid.Row="2"
+					Orientation="Horizontal"
+					HorizontalAlignment="Right">
+			<Button Style="{StaticResource CrystalDialogButton}"
+					Content="_OK"
+					IsDefault="True"
+					Margin="1,1,1,0"
+					VerticalAlignment="Top"
+					Click="Button_Click" />
+			<Button Style="{StaticResource CrystalDialogButton}"
+					Content="_Cancel"
+					IsCancel="True"
+					Click="Button_Click_1" />
+		</StackPanel>
+	</Grid>
+</Window>

@@ -1,0 +1,23 @@
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\g10 App\obj\Debug\Interop.MSComCtl2.dll
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\g10 App\obj\Debug\g10 App.csproj.ResolveComReference.cache
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\g10 App\obj\Debug\MainWindow.g.cs
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\g10 App\obj\Debug\App.g.cs
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\g10 App\obj\Debug\MainWindow.baml
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\g10 App\obj\Debug\Themes\Generic.baml
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\g10 App\obj\Debug\g10 App.csproj.GenerateResource.Cache
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\g10 App\obj\Debug\g10 App.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\g10 App\obj\Debug\App.baml
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\g10 App\obj\Debug\Crystal 2017 Modern.baml
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\g10 App\bin\Debug\Academic Pro.exe.config
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\g10 App\obj\Debug\Academic Pro_MarkupCompile.cache
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\g10 App\obj\Debug\Academic Pro_MarkupCompile.lref
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\g10 App\bin\Debug\Academic Pro.exe.manifest
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\g10 App\bin\Debug\Academic Pro.application
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\g10 App\bin\Debug\Academic Pro.exe
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\g10 App\bin\Debug\Academic Pro.pdb
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\g10 App\obj\Debug\Academic Pro.g.resources
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\g10 App\obj\Debug\Academic_Pro.Properties.Resources.resources
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\g10 App\obj\Debug\Academic Pro.exe.manifest
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\g10 App\obj\Debug\Academic Pro.application
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\g10 App\obj\Debug\Academic Pro.exe
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\g10 App\obj\Debug\Academic Pro.pdb
